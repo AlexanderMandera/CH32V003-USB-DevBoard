@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "WCH")(type "KiCad")(uri "${KIPRJMOD}/WCH.kicad_sym")(options "")(descr ""))
+  (lib (name "CH32V003F4U6")(type "KiCad")(uri "${KIPRJMOD}/CH32V003F4U6.kicad_sym")(options "")(descr ""))
+)
