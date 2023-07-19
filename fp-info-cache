@@ -1,4 +1,4 @@
-21870849274435494
+21872539052477343
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60955,6 +60955,13 @@ Through hole pin header THT 1x10 2.54mm single row
 0
 10
 10
+Library
+SolderJumper_0402
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+3
+2
 Library
 TestPoint_01x02
 
