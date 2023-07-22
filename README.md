@@ -4,12 +4,12 @@
 
 ## Description
 
-This is a CH32V003 USB-capable dev board (WIP).
+This is a CH32V003 USB-capable dev board (Prototype Stage).
 
 It features:
 * USB-C connector
 * Optional Crystal
-* User Button at PC1
+* User Button at PD7 (also for Reset)
 * User LED at PC0
 * USB (bit-bang) on PD3/PD4
 
