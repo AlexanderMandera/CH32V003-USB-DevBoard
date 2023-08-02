@@ -1,6 +1,7 @@
 # CH32V003-USB-DevBoard
 
 ![License](https://img.shields.io/github/license/AlexanderMandera/CH32V003-USB-DevBoard)
+[![Upload to  - AISLER](https://img.shields.io/badge/Upload_to_-AISLER-ff8000)](https://aisler.net/p/new?url=https://raw.githubusercontent.com/AlexanderMandera/CH32V003-USB-DevBoard/master/CH32V003-USB-DevBoard.kicad_pcb&ref=github)
 
 ## Description
 
