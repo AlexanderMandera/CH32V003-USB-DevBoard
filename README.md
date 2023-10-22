@@ -21,10 +21,9 @@ It features:
 You can get PCBs manufactured in two business days starting at just 12.13€.
 Use the code `alexander_m_23` to get 5€ off your next order!
 
-## Interest Check
+## Purchase
 
-If you want to have some assembled boards of the first batch,
-let me know in the [Interest Check Form](https://docs.google.com/forms/d/19YWWBgOGfh6WGAgh8x8CVMEUygecMP5mgTU2pv9D_yI).
+If you want to have some assembled boards, you can purchase them on [Lectronz](https://www.lectronz.com/products/ch32v003-usb-development-board)!
 
 ## Images
 
